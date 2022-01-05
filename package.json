@@ -1,0 +1,23 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "Learning Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutu-thakkar/learnigNode.git"
+  },
+  "author": "Rutu Thakkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutu-thakkar/learnigNode/issues"
+  },
+  "homepage": "https://github.com/rutu-thakkar/learnigNode#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
