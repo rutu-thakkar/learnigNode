@@ -4,4 +4,5 @@ bookDetail = {
     isPurchased: true
 }
 // console.log(bookDetail)
+console.log(exports,require,module,__filename,__dirname)
 module.exports = bookDetail;
