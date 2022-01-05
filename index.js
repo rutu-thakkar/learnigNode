@@ -42,3 +42,4 @@ fs.writeFile('textfilewrite.txt', "this is text file write", () => {
 
 d = fs.writeFileSync('textfilewrite.txt', "this is writeSync");
 console.log("file written")
+
